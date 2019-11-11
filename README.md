@@ -16,4 +16,4 @@ Este revisa si los datos dados por el usuario son correctos, por ejemplo revisar
 
 **WebScrappingSelenium**
 
-Es un módulo que permite mediante las librerias requests_html y Bs4 que se encargan de hacer que se ejecute el javascript de la página web y obtiene el código fuente (html) de la página con los precios y horas de los vuelos.
+Es un módulo que permite mediante las librerias requests_html y Time que se encargan de hacer que se ejecute el javascript de la página web y obtiene el código fuente (html) de la página con los precios y horas de los vuelos.
