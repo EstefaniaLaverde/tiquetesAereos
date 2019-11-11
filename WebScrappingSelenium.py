@@ -161,10 +161,3 @@ def almacenarHorasPrecios(pDiccionarioHorasPrecios, pCiudad):
 				
 	
 	
-	
-
-
-
-
-
-
